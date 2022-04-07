@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bmicalculator/static/css/main.8be88f7e.css",
+    "main.js": "/bmicalculator/static/js/main.88e288ae.js",
+    "index.html": "/bmicalculator/index.html",
+    "main.8be88f7e.css.map": "/bmicalculator/static/css/main.8be88f7e.css.map",
+    "main.88e288ae.js.map": "/bmicalculator/static/js/main.88e288ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8be88f7e.css",
+    "static/js/main.88e288ae.js"
+  ]
+}
